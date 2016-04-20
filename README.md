@@ -1,4 +1,4 @@
-# Apollo Client + Server Demo
+# Apollo client + server demo
 
 This is a simple app that uses:
 
