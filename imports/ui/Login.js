@@ -30,8 +30,6 @@ class Login extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      username: null,
-      password: null,
       loginBoxOpen: false,
       showValidation: false,
     };
